@@ -13,7 +13,7 @@ builder.Services.AddScoped<ISpaceshipsServices, SpaceshipsServices>();
 builder.Services.AddScoped<ICarsServices, CarsServices>();
 builder.Services.AddScoped<IFilesServices, FilesServices>();
 builder.Services.AddScoped<IRealEstatesServices, RealEstatesServices>();
-builder.Services.AddScoped<IWeatherForecastsServices, WeatherForecastsServices>();
+builder.Services.AddScoped<IWeatherForecastsServices, WeatherForecastsServices>(); 
 builder.Services.AddScoped<IEmailService, EmailService>();
 
 var app = builder.Build();
@@ -36,5 +36,6 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
 
 app.Run();
