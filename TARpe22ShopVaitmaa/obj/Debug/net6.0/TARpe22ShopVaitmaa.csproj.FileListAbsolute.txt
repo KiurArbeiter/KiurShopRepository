@@ -338,3 +338,4 @@ C:\Users\opilane\source\repos\TARpe22ShopVaitmaa1\TARpe22ShopVaitmaa\obj\Debug\n
 C:\Users\opilane\source\repos\TARpe22ShopVaitmaa1\TARpe22ShopVaitmaa\obj\Debug\net6.0\TARpe22ShopVaitmaa.pdb
 C:\Users\opilane\source\repos\TARpe22ShopVaitmaa1\TARpe22ShopVaitmaa\obj\Debug\net6.0\TARpe22ShopVaitmaa.genruntimeconfig.cache
 C:\Users\opilane\source\repos\TARpe22ShopVaitmaa1\TARpe22ShopVaitmaa\obj\Debug\net6.0\ref\TARpe22ShopVaitmaa.dll
+C:\Users\opilane\Source\Repos\TARpe22ShopVaitmaa\TARpe22ShopVaitmaa\bin\Debug\net6.0\libman.json

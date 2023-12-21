@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zBEZOj8Q7pJF4UwTWEy0rdt1H0hMPswJQt/iqOrNHz4zPapHoMhCrCaHqryXUt5Z91EwpqFhBjHNEZW1U12Npg==",
+  "dgSpecHash": "aCNHTS5bB+dAeKlEkLd00PIHApqhvYbNsGvOxNUyUhyn0JUujUbKU53Ep4RwVUnUrWJ8wT26Ji2XrnoTvzefRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa1\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
