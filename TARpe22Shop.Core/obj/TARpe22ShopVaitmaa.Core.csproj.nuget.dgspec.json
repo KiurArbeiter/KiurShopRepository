@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
         "projectName": "TARpe22ShopVaitmaa.Core",
-        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\obj\\",
         "projectStyle": "PackageReference",

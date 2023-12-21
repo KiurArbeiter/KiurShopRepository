@@ -10108,9 +10108,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj",
       "projectName": "TARpe22ShopVaitmaa.SpaceshipTest",
-      "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\obj\\",
       "projectStyle": "PackageReference",
@@ -10137,11 +10137,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj": {
-              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj"
+            "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj": {
+              "projectPath": "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj"
             },
-            "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
-              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj"
+            "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
+              "projectPath": "C:\\Users\\opilane\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj"
             }
           }
         }
